@@ -158,6 +158,7 @@ The model can help financial institutions identify high-risk borrowers, improve 
 
 ## Project Structure
 
+```
 credit-risk-prediction/
 
 ├── data/
@@ -169,7 +170,7 @@ credit-risk-prediction/
 ├── README.md
 
 └── requirements.txt
-
+```
 ---
 
 ## Requirements
